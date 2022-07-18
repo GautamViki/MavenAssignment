@@ -1,0 +1,15 @@
+The difference between JPA and Hibernate
+=The main difference between JPA and Hibernate is the fact that JPA is a specification.
+ =It is a set of rules and guidelines to set interfaces for implementing object-relational mapping, .
+ =Dynamic and named queries can be included in JPA.
+==========================================================
+ Hibernate is Red Hat’s implementation of the JPA spec.
+ It helps in mapping Java data types to SQL data types.
+  Hibernate is an ORM framework that sits between the application and the database
+
+
+
+  **********************************************************
+  Explain Layered Architecture:
+  Hibernate has layered Architecture. It helps the user to handle without having to know the underlying APIs.
+  The Hibernate uses the database and the configuration data to implement resolution services to the applications.

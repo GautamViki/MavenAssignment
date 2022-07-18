@@ -1,0 +1,7 @@
+advantage of hibernate over jdbc
+
+Hibernate eliminates a lot of boiler plate code.
+Hibernate supports inheritance, associations, and collections.
+Hibernate implicitly provides transaction management.
+Hibernate wraps JDBCException that are unchecked so exception handling is NOT mandatory.
+Hibernate support cache memory.
